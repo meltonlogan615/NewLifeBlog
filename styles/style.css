@@ -1,3 +1,25 @@
 :root {
   background-color: #000;
 }
+
+@import "node_modules/modern-normalize/modern-normalize.css";
+
+.outerContainer {
+  margin: 1rem auto 0;
+  width: 750px;
+  border: 1px solid white;
+}
+
+h1 {
+  color: white;
+}
+
+header {
+  background-image: url("pics/land/panorama.jpeg");
+}
+
+#profileImage {
+  margin-left: auto;
+  height: 100px;
+  width: auto;
+}

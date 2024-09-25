@@ -1,0 +1,23 @@
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #000;
+  }
+  a {
+    color: #fff;
+  }
+  .outerContainer {
+    /* border-color: #fff; */
+  }
+
+  header {
+    border-color: #fff;
+  }
+
+  header > h1 {
+    color: #fff;
+  }
+
+  header > p {
+    color: #fff;
+  }
+}

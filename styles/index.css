@@ -1,0 +1,11 @@
+.profileImageContainer {
+  padding: 1rem;
+  border: 1px solid black;
+  width: 100%;
+  background-color: blue;
+}
+.selfie {
+  width: 200px;
+  border-radius: 8px;
+  margin: 1rem;
+}
